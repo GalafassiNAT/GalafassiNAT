@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noraneko12&label=Profile%20views&color=0e75b6&style=flat" alt="noraneko12" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/IndelibleAthleticFlee-size_restricted.gif">
+<img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/957461710332737308/2604AFFC52E8A170786EF9400D5CFB985590B7FC/">
 
 - 🌱 I’m currently learning **Data Structure II, Software Engineering, Computer Architecture, C++ and Python**
 

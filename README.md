@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/NoraNeko12">
-    <img src="https://i.pinimg.com/originals/cc/42/3b/cc423bab6109501481c6872182894f5c.gif" alt="MasterHead">  <!-- https://steamuserimages-a.akamaihd.net/ugc/957461710332737308/2604AFFC52E8A170786EF9400D5CFB985590B7FC/ -->
+    <img width="400" src="https://i.pinimg.com/originals/cc/42/3b/cc423bab6109501481c6872182894f5c.gif" alt="MasterHead">  <!-- https://steamuserimages-a.akamaihd.net/ugc/957461710332737308/2604AFFC52E8A170786EF9400D5CFB985590B7FC/ -->
   </a>
 </div>
 <h1 align="center">Welcome! I'm Natanael Galafassi 👋</h1>

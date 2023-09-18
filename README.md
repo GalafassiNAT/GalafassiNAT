@@ -6,9 +6,9 @@
 <h1 align="center">Welcome! I'm Natanael Galafassi 👋</h1>
 <h3 align="center">A Computer Science student from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=noraneko12&label=Profile%20views&color=0e75b6&style=flat" alt="noraneko12" /> </p>
+<p align="left"> <img src="https://steamuserimages-a.akamaihd.net/ugc/957461710332737308/2604AFFC52E8A170786EF9400D5CFB985590B7FC/" alt="noraneko12" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/957461710332737308/2604AFFC52E8A170786EF9400D5CFB985590B7FC/">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/RE2paf1i2tcAAAAd/milk-outside-milk-bag.gif">
 
 - 🌱 I’m currently learning **Data Structure II, Software Engineering, Computer Architecture, C++ and Python**
 

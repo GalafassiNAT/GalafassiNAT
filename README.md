@@ -1,12 +1,12 @@
 <div align="center">
   <a href="https://github.com/NoraNeko12">
-    <img src="https://i.imgur.com/2orA7so.gif" alt="MasterHead">
+    <img src="https://steamuserimages-a.akamaihd.net/ugc/957461710332737308/2604AFFC52E8A170786EF9400D5CFB985590B7FC/" alt="MasterHead">
   </a>
 </div>
 <h1 align="center">Welcome! I'm Natanael Galafassi 👋</h1>
 <h3 align="center">A Computer Science student from Brazil</h3>
 
-<p align="left"> <img src="https://steamuserimages-a.akamaihd.net/ugc/957461710332737308/2604AFFC52E8A170786EF9400D5CFB985590B7FC/" alt="noraneko12" /> </p>
+<p align="left"> <img src="" alt="noraneko12" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/RE2paf1i2tcAAAAd/milk-outside-milk-bag.gif">
 

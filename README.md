@@ -43,6 +43,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noraneko12&show_icons=true&locale=en&layout=compact&theme=aura_dark" alt="noraneko12" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noraneko12&show_icons=true&locale=en&theme=aura_dark" alt="noraneko12" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=noraneko12&show_icons=true&locale=en&theme=aura_dark" alt="noraneko12" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noraneko12&theme=aura_dark" alt="noraneko12" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=noraneko12&theme=aura_dark" alt="noraneko12" /></p>

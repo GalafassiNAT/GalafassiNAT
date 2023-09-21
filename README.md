@@ -45,4 +45,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GalafassiNAT&show_icons=true&locale=en&theme=aura_dark" alt="noraneko12" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=GalafassiNAT&theme=aura_dark" alt="noraneko12" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=GalafassiNAT&theme=aura-dark)](https://git.io/streak-stats)

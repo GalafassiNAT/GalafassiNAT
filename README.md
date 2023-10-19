@@ -43,6 +43,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GalafassiNAT&show_icons=true&locale=en&layout=compact&theme=aura_dark" alt="GalafassiNAT" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GalafassiNAT&show_icons=true&locale=en&theme=aura_dark" alt="noraneko12" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=GalafassiNAT&show_icons=true&locale=en&theme=aura_dark" alt="GalafassiNAT /></p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=GalafassiNAT&theme=aura-dark)](https://git.io/streak-stats)

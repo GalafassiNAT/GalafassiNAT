@@ -10,7 +10,7 @@
 
 <img align="right" alt="Coding" width="400" height="300" src="https://media.tenor.com/RE2paf1i2tcAAAAd/milk-outside-milk-bag.gif">
 
-- 🌱 I’m currently learning **Data Structure II, Software Engineering, Computer Architecture, C++, OO, Python and ML**
+- 🌱 I’m currently learning **Java Spring Boot, Flutter, Image Processing and Microcontrollers (Arduino UNO and ESP32)**
 
 - 📫 How to reach me **natanaelgalafassintg@gmail.com**
 

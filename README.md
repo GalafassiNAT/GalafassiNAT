@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **Computer Theory, Operating Systems, Algorithm Analysis and Nest.js, Machine Learning**
 
 - 📫 How to reach me **natanaelgalafassintg@gmail.com**
-- 💼 Backend developer at <a href= "https://github.com/nossoolharsolidario">  NÓS - Nosso Olhar Solidário </a>
+- 💼 Backend developer at <a href= "https://www.linkedin.com/company/aplicativo-n%C3%B3s-nosso-olhar-solid%C3%A1rio/">  NÓS - Nosso Olhar Solidário </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

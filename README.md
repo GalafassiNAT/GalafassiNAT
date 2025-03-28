@@ -10,7 +10,7 @@
 
 <img align="right" alt="Coding" width="400" height="300" src="https://media.tenor.com/RE2paf1i2tcAAAAd/milk-outside-milk-bag.gif">
 
-- 🌱 I’m currently learning **Computer Theory, Operating Systems, Algorithm Analysis and Nest.js, Machine Learning**
+- 🌱 I’m currently learning **Computer Networks, Graphs Theory, Programming Languages Paradigms, Mega Drive Game Development, Nest.js, Machine Learning**
 
 - 📫 How to reach me **natanaelgalafassintg@gmail.com**
 - 💼 Backend developer at <a href= "https://www.linkedin.com/company/aplicativo-n%C3%B3s-nosso-olhar-solid%C3%A1rio/">  NÓS - Nosso Olhar Solidário </a>

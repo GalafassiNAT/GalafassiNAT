@@ -12,7 +12,9 @@
 
 - 💡 My likings are **Game Development, Software Engineering, AI and ML**
 
-- 🌱 I’m currently learning **Computer Networks, Graphs Theory, Programming Languages Paradigms, Mega Drive Game Development, Nest.js, Machine Learning and Computational intelligence**
+- 🌱 I’m currently learning **Computer Networks, Scientific Research Methods, Data Analysis, Databases' Laboratory, Nest.js, Machine Learning and Computational intelligence**
+
+- ☁️ Aspiring AI/ML Engineering and Research career.
 
 - 📫 How to reach me **natanaelgalafassintg@gmail.com**
 - 💼 Backend developer at <a href= "https://www.linkedin.com/company/aplicativo-n%C3%B3s-nosso-olhar-solid%C3%A1rio/">  NÓS - Nosso Olhar Solidário </a>
